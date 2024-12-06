@@ -417,3 +417,16 @@ vod360.net
 airav.io
 cdn-freemsall.iiooxx.rocks
 ssl.p.jwpcdn.com
+*.olevod.com
+*.olelive.com
+api.olelive.com
+europe.olemovienews.com
+*.zxrlxt.com
+*.bytecdntp.com
+cdn.aqd-tv.com
+vip.aqdm20.com
+tangrenjie.tv
+4kvm.com
+duboku.tv
+netflixgc.com
+ttkb.cc
